@@ -12,6 +12,7 @@ struct TimerMachxApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            kdflgjkldfjhgkjd
         }
     }
 }
